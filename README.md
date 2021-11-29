@@ -5,7 +5,8 @@
 <ul>
   <li>Informações gerais</li>
   <li>Sobre o projeto</li>
-   <li>Link dos repositórios</li>
+  <li>Link dos repositórios</li>
+  <li>Preview</li>
 
 </ul>
 
@@ -66,6 +67,17 @@
   </li>          
 </ul>
 
+## 💻 Sobre o projeto
+Portal educacional
+
+Tendo como proposta de valor
+<ol>
+      <li>Criação de Tarefa</li>
+      <li>Lançamento de Notas</li>
+      <li>Lançamento de presença</li>
+</ol>
+
+
 ## 🧪 Link dos repositórios
 
 
@@ -78,21 +90,32 @@
               Código
            </a>
         </li>
-        <a href="https://fernandoleonid.github.io/mini-projetos-js/00-imc/">
+        <a href="https://github.com/AEscolaDigital/web_back">
           <img src="https://user-images.githubusercontent.com/62961331/143880231-59bd0e1d-4acc-47be-b6fc-a35506462fe7.jpg" width="250px" height="200px">
         </a>
     </td>
       <td>
         <h3>Front-end</h3>
         <li><a href="https://github.com/AEscolaDigital/web_front">Código</a></li>
-        <a href="https://fernandoleonid.github.io/mini-projetos-js/01-lamp/">
+        <a href="https://github.com/AEscolaDigital/web_front">
          <img src="https://user-images.githubusercontent.com/62961331/143879429-d2a033f9-d8c7-4e14-b63d-fd1ec5c57fb2.png" width="250px" height="200px">
        </a>
     </td>
     <td>
       <h3>Moblie</h3>
-      <li><a href="https://github.com/AEscolaDigital/Mobile">Código</a></li>
-      <a href="https://fernandoleonid.github.io/mini-projetos-js/02-semaforo/"><img src="https://user-images.githubusercontent.com/62961331/143881776-db8c00c4-41a2-455d-bc3f-fac77dcc4582.png" width="250px" height="200px"></a>
+      <li>
+        <a href="https://github.com/AEscolaDigital/Mobile">Código</a>
+      </li>
+      <a href="https://github.com/AEscolaDigital/Mobile/">
+       <img src="https://user-images.githubusercontent.com/62961331/143881776-db8c00c4-41a2-455d-bc3f-fac77dcc4582.png" width="250px" height="200px"></a>
     </td>
   </tr>
 </table>
+
+
+##  🔥 Preview 
+
+ <a href="https://eductec.vercel.app/">Preview - Vercel </a>
+ </br>
+ <a href="https://eductec.netlify.app/">Preview - Netlify </a>
+
