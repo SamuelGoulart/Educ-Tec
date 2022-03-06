@@ -78,6 +78,10 @@ Tendo como proposta de valor
 </ol>
 
 
+## 🧪 Link do protótipo
+ <a href="https://www.figma.com/file/ogeMss2Q8LmEBxjgZhlBfl/Educ-Tec">Cliqui aqui, para acessar</a>
+
+
 ## 🧪 Link dos repositórios
 
 
@@ -115,7 +119,5 @@ Tendo como proposta de valor
 
 ##  🔥 Preview 
 
- <a href="https://eductec.vercel.app/">Preview - Vercel </a>
- </br>
  <a href="https://eductec.netlify.app/">Preview - Netlify </a>
 
